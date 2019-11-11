@@ -1,0 +1,8 @@
+{
+    "discord_token" : "", 
+    "bot_name" : "BiggerTTS",
+    "command_name" : "-tts",
+    "delete_messages" : true,
+    "delete_delay" : 1000,
+    "change_bot_nickname" : true
+}
