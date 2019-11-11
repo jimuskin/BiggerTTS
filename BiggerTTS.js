@@ -74,7 +74,7 @@ function sendMessage(channel, message){
     }, config.delete_delay); 
 
     //Revert bot nickname to it's original name (specified in console).
-    if(change_bot_nickname)
+    if(config.change_bot_nickname)
         channel.guild.members.get(client.user.id).setNickname(config.bot_name);         
 }
 
