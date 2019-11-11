@@ -6,6 +6,7 @@ A bot which splits large chunks of text messages (> 175 chars) into smaller chun
 
 # Usage
 -tts {message}
+
 *Example:* -tts The quick brown fox jumped over the lazy dog
 
 # Other
